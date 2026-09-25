@@ -69,3 +69,5 @@ Sau khi deploy, chạy thêm bộ test browser thủ công trong `docs/TEST_CASE
 ## GitHub Pages
 
 Xem hướng dẫn chi tiết: `docs/DEPLOY_GITHUB_PAGES.md`.
+
+Deployed: https://do010303.github.io/hello_calculator-mvp-v1/
