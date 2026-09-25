@@ -183,6 +183,8 @@ h1 {
   letter-spacing: -.045em;
 }
 
+.main-display.is-result { color: #dc2626; }
+
 .main-display.is-error { color: var(--danger); font-size: clamp(1.7rem, 8vw, 2.3rem); }
 
 .keypad {
